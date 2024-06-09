@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>This Privacy Policy describes how we collect, use, and protect your personal information when you use the Patient Data Collection platform for the Cathlab of King Fahad Specialist Hospital, Tabuk, KSA.</p>
+    <h2>Data Collection</h2>
+    <p>We collect personal information including, but not limited to, Timestamp, Date, Full Name, MRN, Age, Gender, Phone Number, Type of Device, Date of Implantation, Place of Implant, Primary Physician, Nationality, Indication, ECG files, ECG Rhythm, QRS duration, BBB, Valves Affected, ECHO additional data, EF (in %), Note & Patient Response, Remarks, and ID or Iqama Number.</p>
+    <h2>Use of Data</h2>
+    <p>The data collected is used for improving patient care, supporting clinical research, and managing patient records efficiently.</p>
+    <h2>Data Sharing and Disclosure</h2>
+    <p>We do not share your personal data with third parties except as required by law or with your explicit consent.</p>
+    <h2>Data Security</h2>
+    <p>We implement appropriate technical and organizational measures to protect your personal data from unauthorized access, use, or disclosure.</p>
+    <h2>User Rights</h2>
+    <p>You have the right to access, correct, or delete your personal data. To exercise these rights, please contact us at the details provided below.</p>
+    <h2>Cookies and Tracking</h2>
+    <p>Our platform may use cookies to enhance user experience. You can control cookie settings through your browser.</p>
+    <h2>Changes to the Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.</p>
+    <h2>Contact Information</h2>
+    <p>For any questions or concerns regarding this privacy policy, please contact:</p>
+    <p>Mr. Omar Rafifan, Staff Nurse In Charge<br>
+    Email: kfshtcathlab2017@gmail.com<br>
+    Phone: +966594223939</p>
+</body>
+</html>
